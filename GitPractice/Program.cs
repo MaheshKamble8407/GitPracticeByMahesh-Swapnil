@@ -10,6 +10,7 @@ namespace GitPractice
 
             Console.WriteLine("Line Added by Mahesh");
 
+            Console.WriteLine("Added by Swapnil");
         }
     }
 }
